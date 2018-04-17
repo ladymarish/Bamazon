@@ -25,7 +25,7 @@ Enter the product ID of your choice. The number shouldn't exceed "10". Next you'
 If the product amount is insufficient, and error message will appear and the product ID and units will have to be re-entered.
 
 
-![Bamazon](screenshots/screenshot2.jpg)
+![Bamazon](screenshots/screenshot3.jpg)
 
 
 ### Built With 
