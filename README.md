@@ -10,4 +10,4 @@ Download the app, navigate to it's directory and run this command in your termin
 node bamazonCustomer.js
 ```
 
-![Customer Portal](screenshots/screenshot1.png)
+![Bamazon](screenshots/screenshot1.jpg)
